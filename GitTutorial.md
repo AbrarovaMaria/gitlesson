@@ -21,5 +21,7 @@
 * *git merge ХХХ* - сливаем ветку ХХХ в текущую
 
 3. Конфликты
+* Fast-forward
+* Auto-merge ORT
 
 4. Итоги
