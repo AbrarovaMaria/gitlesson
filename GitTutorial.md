@@ -1,3 +1,4 @@
+![GIT](git.jpeg)
 # This is my Git Tutorial #
 
 * *git init* - добавление репозитория
@@ -33,4 +34,4 @@
 
 4. Итоги
 
-test
+тестовый pull reqest
